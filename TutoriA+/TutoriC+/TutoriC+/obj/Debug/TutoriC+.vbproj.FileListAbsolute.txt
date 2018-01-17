@@ -1,0 +1,129 @@
+C:\Users\Marco\AppData\Local\Temporary Projects\TutoriC+\bin\Debug\TutoriC+.exe.config
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+C:\Users\Marco\Desktop\Stem Project\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+F:\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+F:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+F:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+F:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+F:\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+F:\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+F:\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+F:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+F:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+F:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+F:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+E:\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+E:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+E:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+E:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+E:\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+C:\Users\Eduard\Desktop\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+E:\STEM\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+E:\STEM\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+E:\STEM\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+E:\STEM\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+E:\STEM\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+E:\STEM\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+E:\STEM\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+E:\STEM\Third Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+E:\STEM\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+E:\STEM\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+E:\STEM\Third Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+E:\STEM\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+F:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+F:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+F:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+F:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+E:\STEM\Third Copy\Third Copy - Copy\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.manifest
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.application
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe.manifest
+E:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.application
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.manifest
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.application
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe.manifest
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.application
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Marco\Dropbox\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+C:\Users\Marco\Dropbox\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+C:\Users\Marco\Dropbox\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+C:\Users\Marco\Dropbox\TutoriA+ Missing(Triangles, Meiosis)\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.config
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe.manifest
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\bin\Debug\TutoriC+.application
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\bin\Debug\TutoriC+.exe
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\bin\Debug\TutoriC+.pdb
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\bin\Debug\TutoriC+.xml
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Form1.resources
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC_.Resources.resources
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC+.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe.manifest
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC+.application
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC+.exe
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC+.xml
+C:\Users\Marco\Desktop\Attempt 3\TutoriA+\TutoriC+\TutoriC+\obj\Debug\TutoriC+.pdb
